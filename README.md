@@ -1,2 +1,5 @@
 # hello-world
-using github for the first time, trying to learn 
+
+Hi peeps!
+
+Trying to learn github so I can start doing my side projects and join the open-source community. Looking for a whole LOTS OF PRACTICE!
